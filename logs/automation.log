@@ -1,0 +1,33 @@
+2025-05-08 16:11:52 INFO  Utils:112 - [TestNG] Running:
+  C:\workspaces\08-March-2025\OpenCartProject\OpencartV121-master\master.xml
+
+2025-05-08 16:11:59 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-05-08 16:11:59 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-05-08 16:12:00 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-05-08 16:12:00 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-05-08 16:12:01 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-05-08 16:12:01 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-05-08 16:12:01 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-08 16:12:03 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-05-08 16:47:53 INFO  Utils:112 - [TestNG] Running:
+  C:\workspaces\08-March-2025\OpenCartProject\OpencartV121-master\master.xml
+
+2025-05-08 16:47:55 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-05-08 16:47:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-05-08 16:47:56 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-05-08 16:47:56 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-05-08 16:47:56 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-05-08 16:47:57 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-05-08 16:47:57 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-08 16:47:59 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-05-08 16:49:05 INFO  Utils:112 - [TestNG] Running:
+  C:\workspaces\08-March-2025\OpenCartProject\OpencartV121-master\master.xml
+
+2025-05-08 16:49:08 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-05-08 16:49:09 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-05-08 16:49:09 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-05-08 16:49:09 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-05-08 16:49:10 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-05-08 16:49:10 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-05-08 16:49:10 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-08 16:49:13 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
